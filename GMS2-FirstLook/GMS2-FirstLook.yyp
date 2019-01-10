@@ -807,6 +807,14 @@
             }
         },
         {
+            "Key": "5647a9ca-908c-4d59-9a91-f9f7394c54a7",
+            "Value": {
+                "id": "8c05c69c-29cd-43a3-9fe1-82ca1bd90f28",
+                "resourcePath": "objects\\obj_data_types_controller\\obj_data_types_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "57cf46de-1b9f-46f3-869f-db653c667501",
             "Value": {
                 "id": "82bf3136-47cb-4bb7-bd8a-0a78598c2ee7",
@@ -1172,6 +1180,14 @@
                 "id": "75bf3e39-a729-4d10-96a4-4c3c8ad87787",
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch2\/images\/TriangleAndSquareRotateProperly.gif.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7b63716b-1da3-4099-8529-d9f65c2e66c0",
+            "Value": {
+                "id": "a81435db-52cd-4fa5-bc40-2265aae68125",
+                "resourcePath": "views\\63d38673-2b42-48bb-9a16-34305e40d0e9-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -2140,6 +2156,14 @@
                 "id": "4d46a5fc-2718-4193-800d-9c6cb5a14d0b",
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch2\/page01.html.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dd623ad2-103c-4da6-887e-5dfb048ff1cf",
+            "Value": {
+                "id": "0d16d1d2-ad63-40df-a866-64380f29b1e0",
+                "resourcePath": "rooms\\rm_data_types\\rm_data_types.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
