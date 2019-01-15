@@ -10,7 +10,6 @@ draw_text(room_width * .5, line_height, "i am " + string(age) + " years old." );
 //performs mathmatical operation on second line
 draw_text(room_width *.5, line_height * 2, "in 40 years i will be " + string (age + (20 * 2)) + "." );
 
-
 //show true boolean data type on third line 
 draw_text(room_width * .5, line_height * 3, "3 in boolean resolves to: " + string(bool(3) )); 
 
@@ -74,7 +73,6 @@ for (i = 0; i < 6; i=i+1)
 	draw_text(room_width *.5, line_height * (13+i), "for loops: " +string(i) ); 
 }
 
-
 //return the alignment to its default setting
 draw_set_halign(fa_left);
 
@@ -83,7 +81,7 @@ draw_set_color(c_yellow);
 
 draw_line(0,line_height * 19, room_width, line_height * 19);
 
-draw_line(0, line_height * 25, room_width, line_height * 25);
+draw_line(0,line_height * 25, room_width, line_height * 25);
 
 draw_set_color(c_white);
 

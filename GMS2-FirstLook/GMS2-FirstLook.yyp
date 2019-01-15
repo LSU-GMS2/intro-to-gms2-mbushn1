@@ -479,6 +479,14 @@
             }
         },
         {
+            "Key": "356519cf-762d-4a66-bb5e-ded59782f378",
+            "Value": {
+                "id": "842e3f99-0178-46c3-b3ce-114010aae071",
+                "resourcePath": "views\\dd623ad2-103c-4da6-887e-5dfb048ff1cf-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "362ee6c1-ad1e-4416-8c4c-e072fd0d6507",
             "Value": {
                 "id": "f81b3282-27bc-4c07-9a95-4623656bc24b",
@@ -924,14 +932,6 @@
                 "id": "c9cb27b1-bfe1-4288-bfe9-5e29a638da49",
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch2\/images\/CenterOriginOnCircle.gif.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "63d38673-2b42-48bb-9a16-34305e40d0e9",
-            "Value": {
-                "id": "aec3fcff-cfe5-405c-803d-e5c2058ca0d9",
-                "resourcePath": "rooms\\room_hello_world\\room_hello_world.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
